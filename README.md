@@ -1,5 +1,5 @@
 
-<img src="./public/favicon.ico" alt="logo" />
+<img src="./public/favicon.ico" alt="logo" width="50px" />
 
 # Dogs
 O projeto Dogs foi desenvolvido com __**ReactJS**__ para ser uma rede social totalmente funcional, onde pessoas postam fotos dos cachorros.
@@ -26,7 +26,7 @@ O site ainda conta com estatísticas de acesso que mostram qual o total de acess
 <img src="./src/Assets/readme/grafico.PNG" alt="grafico" />
 
 # Iniciando o projeto
-O projeto foi criado utilizando create-react-app boilerplate e utiliza somente uma biblioteca externa, sendo ela o Victory, que é responsável pela geração dos gráficos do parte de estatísticas do site. Para baixar todas as dependências:
+O projeto foi criado utilizando create-react-app boilerplate e utiliza somente uma biblioteca externa, sendo ela o Victory, que é responsável pela geração dos gráficos da parte de estatísticas do site. Para baixar todas as dependências:
 
 ```
 npm install
